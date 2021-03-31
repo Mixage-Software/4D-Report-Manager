@@ -10905,7 +10905,7 @@
 					"fontSize": 12,
 					"fill": "transparent",
 					"borderStyle": "sunken",
-					"contextMenu": "none",
+					"contextMenu": "automatic",
 					"pictureFormat": "proportionalCenter",
 					"dragging": "automatic",
 					"dropping": "automatic",

@@ -17,13 +17,16 @@ You can test the component in place  by running these methods without arguments:
 * `TEST_QuickReport`  
 * `TEST_ReportManager`   
 
-...or by choosing the corresponding menu in the "Test Application" mode.
+...or by choosing the corresponding menu in the "Test Application" mode.   
 
-### INSTALLATION:
-1 - Install the component as usual (you may want to take a look here: <https://kb.4d.com/assetid=78446>)
+The "4D Report Manager.4DD" data file contains some sample data.  
+The "Sample" folder contains a couple of sample reports.
+
+### COMPONENT INSTALLATION:
+Install the component as usual (you may want to take a look here: <https://kb.4d.com/assetid=78446>)
 
 
-### AFTER INSTALLATION:
+##### AFTER INSTALLATION:
 The following 2 Methods are presented in the host database:
 
 * `QR_QuickReport ( {->aTable {; document {; hierarchical {; wizard {; search }}}}})`  
