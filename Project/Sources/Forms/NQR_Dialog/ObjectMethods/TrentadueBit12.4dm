@@ -1,0 +1,1 @@
+QR EXECUTE COMMAND:C791(nqr_area;qr cmd save:K14900:20)

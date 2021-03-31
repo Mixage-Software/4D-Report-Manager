@@ -1,0 +1,187 @@
+﻿{
+	"bars": [
+		{
+			"id": 1,
+			"name": "Menu Bar #1",
+			"items": [
+				{
+					"link": 1102
+				},
+				{
+					"link": 15446
+				},
+				{
+					"link": 4749
+				}
+			]
+		}
+	],
+	"menus": [
+		{
+			"link": 1102,
+			"title": ":79,1",
+			"items": [
+				{
+					"title": "Quick Report",
+					"method": "TEST_QuickReport",
+					"shortcutAccel": true,
+					"shortcutKey": "R",
+					"startNewProcess": true
+				},
+				{
+					"title": "Report Manager",
+					"method": "TEST_ReportManager",
+					"shortcutAccel": true,
+					"shortcutKey": "M",
+					"startNewProcess": true
+				},
+				{
+					"title": "Standard Quick Report",
+					"method": "TEST_StandardReport"
+				},
+				{
+					"title": ":131,30",
+					"shortcutAccel": true,
+					"shortcutKey": "Q",
+					"action": "quit"
+				}
+			]
+		},
+		{
+			"link": 15446,
+			"title": ":79,5",
+			"items": [
+				{
+					"title": ":131,18",
+					"shortcutAccel": true,
+					"shortcutKey": "Z",
+					"action": "undo"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true
+				},
+				{
+					"title": ":131,20",
+					"shortcutAccel": true,
+					"shortcutKey": "X",
+					"action": "cut"
+				},
+				{
+					"title": ":131,21",
+					"shortcutAccel": true,
+					"shortcutKey": "C",
+					"action": "copy"
+				},
+				{
+					"title": ":131,22",
+					"shortcutAccel": true,
+					"shortcutKey": "V",
+					"action": "paste"
+				},
+				{
+					"title": ":131,23",
+					"action": "clear"
+				},
+				{
+					"title": ":131,24",
+					"shortcutAccel": true,
+					"shortcutKey": "A",
+					"action": "selectAll"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true
+				},
+				{
+					"title": ":131,25",
+					"action": "showClipboard"
+				}
+			]
+		},
+		{
+			"link": 4749,
+			"title": ":79,6",
+			"items": [
+				{
+					"title": ":131,27",
+					"shortcutAccel": true,
+					"shortcutKey": "Y",
+					"action": "design"
+				},
+				{
+					"title": ":131,28",
+					"shortcutAccel": true,
+					"shortcutKey": "U",
+					"action": "userMode"
+				},
+				{
+					"title": ":131,29",
+					"state": "checked",
+					"shortcutAccel": true,
+					"shortcutKey": "I",
+					"action": "application"
+				}
+			]
+		},
+		{
+			"link": 32000,
+			"title": "Report",
+			"items": [
+				{
+					"title": "New",
+					"method": "NQR_Menu_File",
+					"shortcutAccel": true,
+					"shortcutKey": "n",
+					"parameter": "1"
+				},
+				{
+					"title": "Open…",
+					"method": "NQR_Menu_File",
+					"shortcutAccel": true,
+					"shortcutKey": "o",
+					"parameter": "2"
+				},
+				{
+					"title": "Save",
+					"method": "NQR_Menu_File",
+					"shortcutAccel": true,
+					"shortcutKey": "s",
+					"parameter": "3"
+				},
+				{
+					"title": "Save as…",
+					"method": "NQR_Menu_File",
+					"shortcutShift": true,
+					"shortcutAccel": true,
+					"shortcutKey": "s",
+					"parameter": "4"
+				},
+				{
+					"title": "Item 1",
+					"isSeparator": true
+				},
+				{
+					"title": "Borders…",
+					"method": "NQR_Menu_File",
+					"parameter": "7"
+				},
+				{
+					"title": "Page Layout…",
+					"method": "NQR_Menu_File",
+					"shortcutAccel": true,
+					"shortcutKey": "l",
+					"parameter": "5"
+				},
+				{
+					"title": "Page Setup…",
+					"method": "NQR_Menu_File",
+					"shortcutShift": true,
+					"shortcutAccel": true,
+					"shortcutKey": "p",
+					"parameter": "6"
+				}
+			]
+		}
+	]
+}

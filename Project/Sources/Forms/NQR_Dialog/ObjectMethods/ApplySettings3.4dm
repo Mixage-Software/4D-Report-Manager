@@ -1,0 +1,4 @@
+NQR_Borders_ClearCellSettings 
+NQR_Borders_UpdatePreview 
+
+

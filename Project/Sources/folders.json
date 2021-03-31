@@ -1,0 +1,167 @@
+﻿{
+	"Borders": {
+		"methods": [
+			"NQR_Borders_ApplyCrossSettings",
+			"NQR_Borders_ApplyListSettings",
+			"NQR_Borders_ClearCellSettings",
+			"NQR_Borders_DrawCrossPreview",
+			"NQR_Borders_DrawListPreview",
+			"NQR_Borders_LoadCellSettings",
+			"NQR_Borders_ToggleSelection",
+			"NQR_Borders_UpdatePreview"
+		]
+	},
+	"Common": {
+		"methods": [
+			"_O_NQR_MP_Call",
+			"NQR_Cross_Get_Cell_Base",
+			"NQR_Cross_Get_Sorts",
+			"NQR_Cross_Get_tc_lc",
+			"NQR_Cross_Get_Total_Column",
+			"NQR_Cross_Get_Total_Row",
+			"NQR_Cross_Set_tc_sort",
+			"NQR_ExecuteButton_Clicked",
+			"NQR_ExecuteButton_Update",
+			"NQR_Executer",
+			"NQR_Get_Cell",
+			"NQR_Get_Fields",
+			"NQR_Get_lh_Column",
+			"NQR_Hdl_dc_Field",
+			"NQR_Icon_FieldType",
+			"NQR_Icon_SortOrder",
+			"NQR_Init",
+			"NQR_Init_Struct_Description",
+			"NQR_List_Get_Selection",
+			"NQR_List_Get_Sorts",
+			"NQR_List_Select_Sorts",
+			"NQR_List_UpdateBreakSpacing",
+			"NQR_ManualMode",
+			"NQR_Menu_File",
+			"NQR_OnAreaDataChange",
+			"NQR_Release",
+			"NQR_Save",
+			"NQR_SaveAs",
+			"NQR_Select_Column",
+			"NQR_Tables_Init",
+			"NQR_Tables_Update",
+			"NQR_Update_Destination",
+			"NQR_View_Fields",
+			"NQR_VirtualField_GetName",
+			"NQR_VirtualField_GetType"
+		]
+	},
+	"Component": {
+		"groups": [
+			"Library",
+			"Quick Report",
+			"Report Manager"
+		],
+		"methods": [
+			"QR_QuickReport",
+			"QR_ReportManager",
+			"QR_Startup"
+		]
+	},
+	"HeaderFooter": {
+		"methods": [
+			"NQR_HeaderFooter_Get",
+			"NQR_HeaderFooter_Set"
+		]
+	},
+	"Library": {
+		"methods": [
+			"_AppendMenuItem",
+			"_ClickedObject",
+			"_ClickedRightBottomCorner",
+			"_ComponentRunningInHostMode",
+			"_Expand_BLOB_NoErr",
+			"_GetFileName",
+			"_GetTableNamed",
+			"_Hex2Dec",
+			"_IsAdmin",
+			"_LastPosition",
+			"_LoadRecord",
+			"_NO_ERROR",
+			"_PathToFileName",
+			"_PathToParentPath",
+			"_PointInRect",
+			"_PutFileName",
+			"_QR_CountRows",
+			"_QR_RowNumToSectionNum",
+			"_QR_SetTextProperty",
+			"_TextWithoutExtension"
+		]
+	},
+	"Quick Report": {
+		"groups": [
+			"Borders",
+			"Common",
+			"HeaderFooter",
+			"Templates",
+			"Wizard"
+		],
+		"forms": [
+			"NQR_Dialog"
+		]
+	},
+	"Report Manager": {
+		"methods": [
+			"QR_Manager_LB_Update",
+			"QR_Manager_M_File",
+			"QR_Manager_ModifyRecord",
+			"QR_Manager_NewRecord",
+			"QR_Manager_RecNumForName",
+			"QR_Manager_SaveRecord",
+			"QR_Manager_UniqueName"
+		],
+		"forms": [
+			"QR_Manager_Dialog"
+		]
+	},
+	"Templates": {
+		"methods": [
+			"NQR_TMP_Cross_DrawPreview",
+			"NQR_TMP_Cross_Load",
+			"NQR_TMP_Cross_LoadList",
+			"NQR_TMP_List_DrawPreview",
+			"NQR_TMP_List_Load",
+			"NQR_TMP_List_LoadList",
+			"NQR_TMP_LoadComputations"
+		]
+	},
+	"TEST": {
+		"tables": [
+			"_ReportManager",
+			"FRUITS",
+			"ORIGIN",
+			"SALES"
+		],
+		"forms": [
+			"[_ReportManager]Input",
+			"[_ReportManager]Output",
+			"[FRUITS]Input",
+			"[FRUITS]Output",
+			"[ORIGIN]Input",
+			"[ORIGIN]Output",
+			"[SALES]Form1",
+			"[SALES]Input",
+			"[SALES]Output"
+		]
+	},
+	"Wizard": {
+		"methods": [
+			"NQR_Wiz_Cross_Set_Cell_Formula",
+			"NQR_Wiz_Cross_Set_Total_Column",
+			"NQR_Wiz_Cross_Set_Total_Row",
+			"NQR_Wiz_Enter",
+			"NQR_Wiz_Get_Column",
+			"NQR_Wiz_Get_Row",
+			"NQR_Wiz_List_Set_Cell_Formula",
+			"NQR_Wiz_SetDestination",
+			"NQR_Wiz_Step",
+			"NQR_Wiz_Step_Next",
+			"NQR_Wiz_Step_Previous"
+		]
+	},
+	"trash": {}
+}

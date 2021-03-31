@@ -1,0 +1,1 @@
+QR SET DESTINATION:C745(nqr_area;5;nqr_result_html)

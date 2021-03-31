@@ -1,0 +1,6 @@
+//%attributes = {}
+READ ONLY:C145(*)
+ALL RECORDS:C47([FRUITS:3])
+ALL RECORDS:C47([SALES:4])
+ALL RECORDS:C47([ORIGIN:2])
+QR_QuickReport (->[FRUITS:3];"";True:C214;True:C214;True:C214)

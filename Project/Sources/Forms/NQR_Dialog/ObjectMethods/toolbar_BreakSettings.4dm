@@ -1,0 +1,2 @@
+nqr_extra_space:=0
+NQR_List_UpdateBreakSpacing 

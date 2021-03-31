@@ -1,0 +1,8 @@
+
+*.4DIndx
+*.Match
+Cache/
+/userPreferences.*/
+/temporary files/
+/Logs/
+/Settings/

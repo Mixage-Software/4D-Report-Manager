@@ -1,0 +1,12 @@
+﻿{
+	"forms": {
+		"NQR_Dialog": {
+			"timeStamp": "2021-03-31T14:52:44.556Z",
+			"destination": "detailScreen"
+		},
+		"QR_Manager_Dialog": {
+			"timeStamp": "2021-03-31T13:57:25.151Z",
+			"destination": "detailScreen"
+		}
+	}
+}

@@ -1,0 +1,379 @@
+﻿{
+	"destination": "detailScreen",
+	"windowMinWidth": 1055,
+	"windowMinHeight": 502,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onClick",
+		"onDoubleClick",
+		"onTimer",
+		"onSelectionChange"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "595pt",
+		"paperHeight": "842pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Image static23": {
+					"type": "picture",
+					"top": 0,
+					"left": 789,
+					"width": 266,
+					"height": 502,
+					"sizingX": "move",
+					"sizingY": "grow",
+					"pictureFormat": "scaled",
+					"picture": "/RESOURCES/Images/library/15011.png"
+				},
+				"QR_AREA1": {
+					"type": "plugin",
+					"top": 0,
+					"left": 0,
+					"width": 789,
+					"height": 502,
+					"visibility": "hidden",
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "QR_Preview",
+					"pluginAreaKind": "%Report",
+					"borderStyle": "none",
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPluginArea",
+						"onDataChange",
+						"onPrintingDetail"
+					]
+				},
+				"Variable2": {
+					"type": "button",
+					"top": 309,
+					"left": 808,
+					"width": 25,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_nuovo",
+					"stroke": "automatic",
+					"focusable": false,
+					"text": "+",
+					"iconFrames": 4,
+					"style": "bevel",
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					],
+					"class": "SmallerButtonText"
+				},
+				"preview_button": {
+					"type": "button",
+					"top": 0,
+					"left": 0,
+					"width": 772,
+					"height": 485,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "Button1",
+					"text": "Button",
+					"display": false,
+					"events": [
+						"onDoubleClick"
+					]
+				},
+				"Variable7": {
+					"type": "button",
+					"top": 465,
+					"left": 940,
+					"width": 95,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_genera",
+					"action": "cancel",
+					"shortcutKey": "[Enter]",
+					"text": ":xliff:Execute",
+					"stroke": "#000000",
+					"focusable": false,
+					"defaultButton": true,
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					],
+					"class": "Default"
+				},
+				"Variable4": {
+					"type": "button",
+					"top": 309,
+					"left": 869,
+					"width": 85,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_aggiungi",
+					"stroke": "automatic",
+					"focusable": false,
+					"text": ":xliff:Load…",
+					"iconFrames": 4,
+					"style": "bevel",
+					"method": "ObjectMethods/Variable4.4dm",
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					],
+					"class": "SmallerButtonText"
+				},
+				"Rectangle1": {
+					"type": "rectangle",
+					"top": 334,
+					"left": 805,
+					"width": 235,
+					"height": 113,
+					"sizingX": "move",
+					"sizingY": "move",
+					"fill": "transparent",
+					"stroke": "transparent"
+				},
+				"Field1": {
+					"type": "input",
+					"top": 338,
+					"left": 809,
+					"width": 226,
+					"height": 119,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "vQR_Commenti",
+					"fontFamily": "Lucida Grande",
+					"fontSize": 11,
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "sunken",
+					"enterable": false,
+					"contextMenu": "none",
+					"events": [
+						"onLoad",
+						"onValidate",
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onDataChange",
+						"onPrintingDetail"
+					],
+					"class": "SmallerText",
+					"stroke": "automatic"
+				},
+				"Variable12": {
+					"type": "button",
+					"top": 309,
+					"left": 835,
+					"width": 25,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_cancella",
+					"class": "SmallerButtonText",
+					"stroke": "automatic",
+					"focusable": false,
+					"text": "-",
+					"iconFrames": 4,
+					"style": "bevel",
+					"method": "ObjectMethods/Variable12.4dm",
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					]
+				},
+				"Variable3": {
+					"type": "button",
+					"top": 309,
+					"left": 959,
+					"width": 80,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_duplica",
+					"class": "SmallerButtonText",
+					"stroke": "automatic",
+					"focusable": false,
+					"text": ":xliff:Duplicate",
+					"iconFrames": 4,
+					"style": "bevel",
+					"method": "ObjectMethods/Variable3.4dm",
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					]
+				},
+				"LB_QR_Reports": {
+					"type": "listbox",
+					"top": 48,
+					"left": 805,
+					"width": 234,
+					"height": 252,
+					"sizingX": "move",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"dataSource": "LB_QR_Reports",
+					"hideFocusRing": true,
+					"sortable": false,
+					"movableRows": false,
+					"rowHeight": "20px",
+					"rowHeightAutoMin": "20px",
+					"rowHeightAutoMax": "20px",
+					"selectionMode": "single",
+					"horizontalLineStroke": "transparent",
+					"verticalLineStroke": "transparent",
+					"stroke": "#000000",
+					"fill": "#FFFFFF",
+					"events": [
+						"onClick",
+						"onDoubleClick",
+						"onSelectionChange"
+					],
+					"class": "SmallerText",
+					"scrollbarHorizontal": "hidden",
+					"columns": [
+						{
+							"name": "Column1",
+							"dataSource": "aQR_ReportName",
+							"width": 219,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"resizable": false,
+							"enterable": false,
+							"stroke": "automatic",
+							"fill": "#FFFFFF",
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Header1",
+								"text": ":xliff:Report Name",
+								"dataSource": "Header1",
+								"stroke": "automatic",
+								"class": "SmallerText"
+							},
+							"footer": {
+								"name": "Footer1",
+								"timeFormat": "hh_mm_ss",
+								"stroke": "#000000",
+								"fill": "#FFFFFF",
+								"fontFamily": "Lucida Grande",
+								"fontSize": 11
+							},
+							"class": "SmallerText"
+						}
+					]
+				},
+				"Variable1": {
+					"type": "button",
+					"top": 465,
+					"left": 808,
+					"width": 95,
+					"height": 20,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "p_no",
+					"action": "cancel",
+					"shortcutKey": "[Esc]",
+					"text": ":xliff:Close",
+					"stroke": "automatic",
+					"focusable": false,
+					"events": [
+						"onClick",
+						"onHeader",
+						"onPrintingBreak",
+						"onPrintingFooter",
+						"onDisplayDetail",
+						"onPrintingDetail"
+					],
+					"class": "Default"
+				},
+				"Text30": {
+					"type": "text",
+					"top": 6,
+					"left": 805,
+					"width": 235,
+					"height": 16,
+					"sizingY": "fixed",
+					"class": "SmallerButtonText",
+					"text": ":14907,2",
+					"sizingX": "move",
+					"textAlign": "center"
+				},
+				"table": {
+					"type": "dropdown",
+					"top": 24,
+					"left": 805,
+					"width": 234,
+					"height": 19,
+					"sizingY": "fixed",
+					"dataSource": "_nqr_tables",
+					"class": "SmallerButtonText",
+					"method": "ObjectMethods/table.4dm",
+					"events": [
+						"onClick"
+					],
+					"sizingX": "move"
+				},
+				"Variable": {
+					"type": "input",
+					"top": 24,
+					"left": 808,
+					"width": 231,
+					"height": 18,
+					"sizingY": "fixed",
+					"dataSource": "nqr_table_name",
+					"class": "Default",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"textAlign": "center",
+					"sizingX": "move"
+				}
+			}
+		}
+	],
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"geometryStamp": 90
+}

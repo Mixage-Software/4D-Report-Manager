@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="" uuid="A1BF26E1E96D4A0895DEFBDDE095BE12" collation_locale="it">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="_ReportManager" uuid="DA49BEF757B247C08625FFD9751D0C2A" id="1" prevent_journaling="true">
+		<field name="Name" uuid="2DE4CBB27C284E1C90C465C0CF949CF6" type="10" never_null="true" id="1">
+			<field_extra multi_line="false">
+				<editor_field_info>
+					<color red="255" green="255" blue="255" alpha="0"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="Comments" uuid="180F166450464743873F066F58DA5E0A" type="10" never_null="true" id="2"/>
+		<field name="MasterTableNumber" uuid="007003A3B2594A31BD08C41E32D8B25D" type="3" never_null="true" id="3"/>
+		<field name="Report" uuid="51D13E6E8A7C4B09920C1597B1D667DD" type="18" never_null="true" id="4"/>
+		<field name="ModifiedDate" uuid="C579639401544BC9B9A9A72BE509B97A" type="8" never_null="true" id="5"/>
+		<field name="ModifiedBy" uuid="66E15689EE704822922E547FE8EA1E33" type="10" never_null="true" id="6"/>
+		<field name="Protected" uuid="C772732766794A198D4F56AB8D704A58" type="1" never_null="true" id="7"/>
+		<field name="Owner" uuid="2FF1BFDE4F704EC08F72A981873B246E" type="10" never_null="true" id="8"/>
+		<table_extra input_form="Input" output_form="Output" visible="false">
+			<editor_table_info displayable_fields_count="9">
+				<color red="0" green="0" blue="0" alpha="0"/>
+				<coordinates left="6.03125" top="0" width="185.125" height="231.234375"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<table name="ORIGIN" uuid="CE1DD9F410C44F038D30ADEE0FE9EE13" id="2" prevent_journaling="true">
+		<field name="ID" uuid="66CCDB618F054CBE970555F9926A2BF3" type="4" unique="true" autosequence="true" never_null="true" id="1"/>
+		<field name="COUNTRY" uuid="629C6D6DAC584801A208C0AF198468E7" type="10" limiting_length="255" never_null="true" id="2"/>
+		<table_extra input_form="Input" output_form="Output">
+			<editor_table_info displayable_fields_count="3">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="302.96484375" top="31.53125" width="117" height="119"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<table name="FRUITS" uuid="84BC663E9C774D16A06681D78150AFC9" id="3" prevent_journaling="true">
+		<field name="ID" uuid="135A96C099D74F8293F3ABBB98F2CC2E" type="4" unique="true" autosequence="true" never_null="true" id="1"/>
+		<field name="ORIGIN_ID" uuid="7A1FE97F4CA6403CB4A16F328FBA6172" type="4" never_null="true" id="2"/>
+		<field name="NAME" uuid="313BA48863CD4F55B386F58F14F04B53" type="10" limiting_length="255" never_null="true" id="3"/>
+		<table_extra input_form="Input" output_form="Output">
+			<editor_table_info displayable_fields_count="7">
+				<color red="0" green="0" blue="0" alpha="0"/>
+				<coordinates left="506.17578125" top="11.46484375" width="107" height="198.140625"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<table name="SALES" uuid="214C812CD6F047DA9E171B0435BF68A5" id="4" prevent_journaling="true">
+		<field name="FRUITS_ID" uuid="D5237A9A5AC243DCBCCACBAEBEEC55D8" type="4" never_null="true" id="1"/>
+		<field name="DATE" uuid="2EC43FBABE89446083A41AD29A3014CC" type="8" never_null="true" id="2"/>
+		<field name="QUANTITY" uuid="DA11C18B015D453BB02A040FC1F0900F" type="3" never_null="true" id="3"/>
+		<table_extra input_form="Input" output_form="Form1">
+			<editor_table_info displayable_fields_count="7">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="736.5703125" top="12.1171875" width="169.34765625" height="202.12890625"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<relation uuid="E7D158D070FC452CAB236EEA51A2371D" name_Nto1="Link_1" name_1toN="Link_1_return" auto_load_Nto1="true" auto_load_1toN="true" foreign_key="false" state="1">
+		<related_field kind="source">
+			<field_ref uuid="D5237A9A5AC243DCBCCACBAEBEEC55D8" name="FRUITS_ID">
+				<table_ref uuid="214C812CD6F047DA9E171B0435BF68A5" name="SALES"/>
+			</field_ref>
+		</related_field>
+		<related_field kind="destination">
+			<field_ref uuid="135A96C099D74F8293F3ABBB98F2CC2E" name="ID">
+				<table_ref uuid="84BC663E9C774D16A06681D78150AFC9" name="FRUITS"/>
+			</field_ref>
+		</related_field>
+		<relation_extra entry_wildchar="true" entry_create="true" choice_field="3" entry_autofill="false">
+			<editor_relation_info via_point_x="-1" via_point_y="-1" prefers_left="true" smartlink="true">
+				<color red="255" green="255" blue="255" alpha="0"/>
+			</editor_relation_info>
+		</relation_extra>
+	</relation>
+	<relation uuid="0A34320BD29F4A5797F918596B2A7CF0" name_Nto1="Link_2" name_1toN="Link_2_return" auto_load_Nto1="true" auto_load_1toN="true" foreign_key="false" state="1">
+		<related_field kind="source">
+			<field_ref uuid="7A1FE97F4CA6403CB4A16F328FBA6172" name="ORIGIN_ID">
+				<table_ref uuid="84BC663E9C774D16A06681D78150AFC9" name="FRUITS"/>
+			</field_ref>
+		</related_field>
+		<related_field kind="destination">
+			<field_ref uuid="66CCDB618F054CBE970555F9926A2BF3" name="ID">
+				<table_ref uuid="CE1DD9F410C44F038D30ADEE0FE9EE13" name="ORIGIN"/>
+			</field_ref>
+		</related_field>
+		<relation_extra entry_wildchar="false" entry_create="false" choice_field="0" entry_autofill="false">
+			<editor_relation_info via_point_x="-1" via_point_y="-1" prefers_left="true" smartlink="true">
+				<color red="255" green="255" blue="255" alpha="0"/>
+			</editor_relation_info>
+		</relation_extra>
+	</relation>
+	<index kind="regular" uuid="1F890C5BAFE34F60808360C113F74171" type="7">
+		<field_ref uuid="7A1FE97F4CA6403CB4A16F328FBA6172" name="ORIGIN_ID">
+			<table_ref uuid="84BC663E9C774D16A06681D78150AFC9" name="FRUITS"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="2B29EF414CAE40A781FBA2505DD45F84" type="7">
+		<field_ref uuid="135A96C099D74F8293F3ABBB98F2CC2E" name="ID">
+			<table_ref uuid="84BC663E9C774D16A06681D78150AFC9" name="FRUITS"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="7A8E45E13036448EA9D249C6AD3D5868" type="7">
+		<field_ref uuid="D5237A9A5AC243DCBCCACBAEBEEC55D8" name="FRUITS_ID">
+			<table_ref uuid="214C812CD6F047DA9E171B0435BF68A5" name="SALES"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="F47EF358EFD9481F8558A6F3923A1E5E" type="7">
+		<field_ref uuid="66CCDB618F054CBE970555F9926A2BF3" name="ID">
+			<table_ref uuid="CE1DD9F410C44F038D30ADEE0FE9EE13" name="ORIGIN"/>
+		</field_ref>
+	</index>
+	<base_extra data_file_path=":NQR Component.data" package_name="4D Report Manager" structure_file_name="NQR Component" __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0">
+		<temp_folder folder_selector="data"/>
+	</base_extra>
+</base>

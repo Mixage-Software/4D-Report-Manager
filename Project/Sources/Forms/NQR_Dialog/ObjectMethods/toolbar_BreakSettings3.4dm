@@ -1,0 +1,2 @@
+nqr_page_break:=0
+NQR_List_UpdateBreakSpacing 

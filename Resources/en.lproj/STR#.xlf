@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <!--Translation file.This file is distributed under the same license as the product package.-->
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="en">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group id="14902" resname="NQR Print Preview">
+            <trans-unit id="1" resname="Zoom :">
+               <source>Zoom :</source>
+               <target>Zoom :</target>
+            </trans-unit>
+            <trans-unit id="2" resname="Page &lt;p1&gt;">
+               <source>Page &lt;p1&gt;</source>
+               <target>Page &lt;p1&gt;</target>
+            </trans-unit>
+            <trans-unit id="3" resname="Print Preview...">
+               <source>Print Preview</source>
+               <target>Print Preview</target>
+            </trans-unit>
+         </group>
+         <group id="14905" resname="NQR Filtre table">
+            <trans-unit id="1" resname="Master Table">
+               <source>Master Table</source>
+               <target>Master Table</target>
+            </trans-unit>
+            <trans-unit id="2" resname="Related Tables">
+               <source>Related Tables</source>
+               <target>Related Tables</target>
+            </trans-unit>
+            <trans-unit id="3" resname="All Tables">
+               <source>All Tables</source>
+               <target>All Tables</target>
+            </trans-unit>
+            <trans-unit id="4" resname="-">
+               <source>-</source>
+               <target>-</target>
+            </trans-unit>
+            <trans-unit id="5" resname="Report Columns">
+               <source>Report Columns</source>
+               <target>Report Columns</target>
+            </trans-unit>
+         </group>
+         <group id="14907" resname="NQR Dialog">
+            <trans-unit id="1" resname="Report parameters">
+               <source>Report parameters </source>
+               <target>Report parameters </target>
+            </trans-unit>
+            <trans-unit id="2" resname="Master Table">
+               <source>Master Table </source>
+               <target>Master Table </target>
+            </trans-unit>
+            <trans-unit id="3" resname="Report Type">
+               <source>Report Type</source>
+               <target>Report Type</target>
+            </trans-unit>
+            <trans-unit id="4" resname="List">
+               <source>List </source>
+               <target>List </target>
+            </trans-unit>
+            <trans-unit id="5" resname="Cross table">
+               <source>Cross table </source>
+               <target>Cross table </target>
+            </trans-unit>
+            <trans-unit id="6" resname="Available fields">
+               <source>Available fields </source>
+               <target>Available fields </target>
+            </trans-unit>
+            <trans-unit id="7" resname="Sort order">
+               <source>Sort order </source>
+               <target>Sort order </target>
+            </trans-unit>
+            <trans-unit id="8" resname="Only automatic relations">
+               <source>Only automatic relations </source>
+               <target>Only automatic relations </target>
+            </trans-unit>
+            <trans-unit id="9" resname="All relations in automatic">
+               <source>All relations in automatic </source>
+               <target>All relations in automatic </target>
+            </trans-unit>
+            <trans-unit id="10" resname="Open wizard">
+               <source>Open wizard </source>
+               <target>Open wizard </target>
+            </trans-unit>
+            <trans-unit id="11" resname="1-Columns">
+               <source>1-Columns </source>
+               <target>1-Columns </target>
+            </trans-unit>
+            <trans-unit id="12" resname="2-Rows">
+               <source>2-Rows </source>
+               <target>2-Rows </target>
+            </trans-unit>
+            <trans-unit id="13" resname="No sort">
+               <source>No sort </source>
+               <target>No sort </target>
+            </trans-unit>
+            <trans-unit id="14" resname="From left to right">
+               <source>From left to right </source>
+               <target>From left to right </target>
+            </trans-unit>
+            <trans-unit id="15" resname="From right to left">
+               <source>From right to left </source>
+               <target>From right to left </target>
+            </trans-unit>
+            <trans-unit id="16" resname="From bottom to top">
+               <source>From bottom to top </source>
+               <target>From bottom to top </target>
+            </trans-unit>
+            <trans-unit id="17" resname="From top to bottom">
+               <source>From top to bottom </source>
+               <target>From top to bottom </target>
+            </trans-unit>
+            <trans-unit id="18" resname="record(s) in selection">
+               <source>record(s) in selection</source>
+               <target>record(s) in selection</target>
+            </trans-unit>
+            <trans-unit id="19" resname="record(s) in table">
+               <source>record(s) in table</source>
+               <target>record(s) in table</target>
+            </trans-unit>
+            <trans-unit id="20" resname="New query">
+               <source>New query</source>
+               <target>New query</target>
+            </trans-unit>
+            <trans-unit id="21" resname="Step">
+               <source>Step</source>
+               <target>Step</target>
+            </trans-unit>
+            <trans-unit id="22" resname="Report Type">
+               <source>Report Type</source>
+               <target>Report Type</target>
+            </trans-unit>
+            <trans-unit id="23" resname="Manual mode">
+               <source>Manual mode </source>
+               <target>Manual mode </target>
+            </trans-unit>
+            <trans-unit id="24" resname="Report Type">
+               <source>Report Type</source>
+               <target>Report Type</target>
+            </trans-unit>
+            <trans-unit id="25" resname="Next step">
+               <source>Next step</source>
+               <target>Next step</target>
+            </trans-unit>
+            <trans-unit id="26" resname="Select the type of report you want to build.">
+               <source>Select the type of report you want to build.</source>
+               <target>Select the type of report you want to build.</target>
+            </trans-unit>
+            <trans-unit id="27" resname="Run">
+               <source>Run</source>
+               <target>Run</target>
+            </trans-unit>
+            <trans-unit id="28" resname="Data Sources">
+               <source>Data Sources </source>
+               <target>Data Sources </target>
+            </trans-unit>
+            <trans-unit id="29" resname="Data Sources">
+               <source>Data Sources </source>
+               <target>Data Sources </target>
+            </trans-unit>
+            <trans-unit id="30" resname="To continue building the report, select the master table from the pull-down menu.">
+               <source>To continue building the report, select the master table from the pull-down menu.</source>
+               <target>To continue building the report, select the master table from the pull-down menu.</target>
+            </trans-unit>
+            <trans-unit id="31" resname="Add data from the available fields.">
+               <source>Add data from the available fields.</source>
+               <target>Add data from the available fields.</target>
+            </trans-unit>
+            <trans-unit id="32" resname="Sort Order">
+               <source>Sort Order </source>
+               <target>Sort Order </target>
+            </trans-unit>
+            <trans-unit id="33" resname="Sort Order">
+               <source>Sort Order </source>
+               <target>Sort Order </target>
+            </trans-unit>
+            <trans-unit id="34" resname="Select the columns to sort.">
+               <source>Select the columns to sort.</source>
+               <target>Select the columns to sort.</target>
+            </trans-unit>
+            <trans-unit id="35" resname="Report columns">
+               <source>Report columns </source>
+               <target>Report columns </target>
+            </trans-unit>
+            <trans-unit id="36" resname="Adding Computations">
+               <source>Adding Computations</source>
+               <target>Adding Computations</target>
+            </trans-unit>
+            <trans-unit id="37" resname="Computations">
+               <source>Computations </source>
+               <target>Computations </target>
+            </trans-unit>
+            <trans-unit id="38" resname="Add the computation you want">
+               <source>Add the computation you want </source>
+               <target>Add the computation you want </target>
+            </trans-unit>
+            <trans-unit id="39" resname="Cell computations">
+               <source>Cell computations</source>
+               <target>Cell computations</target>
+            </trans-unit>
+            <trans-unit id="40" resname="Column computations">
+               <source>Column computations</source>
+               <target>Column computations</target>
+            </trans-unit>
+            <trans-unit id="41" resname="Row computations">
+               <source>Row computations</source>
+               <target>Row computations</target>
+            </trans-unit>
+            <trans-unit id="42" resname="Sum">
+               <source>Sum</source>
+               <target>Sum</target>
+            </trans-unit>
+            <trans-unit id="43" resname="Average">
+               <source>Average</source>
+               <target>Average</target>
+            </trans-unit>
+            <trans-unit id="44" resname="Minimum">
+               <source>Minimum</source>
+               <target>Minimum</target>
+            </trans-unit>
+            <trans-unit id="45" resname="Maximum">
+               <source>Maximum</source>
+               <target>Maximum</target>
+            </trans-unit>
+            <trans-unit id="46" resname="Count">
+               <source>Count</source>
+               <target>Count</target>
+            </trans-unit>
+            <trans-unit id="47" resname="Destinazione Type">
+               <source>Output Type</source>
+               <target>Output Type</target>
+            </trans-unit>
+            <trans-unit id="48" resname="Destinazione Type">
+               <source>Output Type</source>
+               <target>Output Type</target>
+            </trans-unit>
+            <trans-unit id="49" resname="Select the destinazione type for this report.">
+               <source>Select the output type for this report. </source>
+               <target>Select the output type for this report. </target>
+            </trans-unit>
+            <trans-unit id="50" resname="Column delimiter">
+               <source>Column delimiter</source>
+               <target>Column delimiter</target>
+            </trans-unit>
+            <trans-unit id="51" resname="Line delimiter">
+               <source>Line delimiter</source>
+               <target>Line delimiter</target>
+            </trans-unit>
+            <trans-unit id="52" resname="Destination file name">
+               <source>Destination file name</source>
+               <target>Destination file name</target>
+            </trans-unit>
+            <trans-unit id="53" resname="Destination HTML file name">
+               <source>Destination HTML file name</source>
+               <target>Destination HTML file name</target>
+            </trans-unit>
+            <trans-unit id="54" resname="HTML file template">
+               <source>HTML file template</source>
+               <target>HTML file template</target>
+            </trans-unit>
+            <trans-unit id="55" resname="Browse ...">
+               <source>Browse ...</source>
+               <target>Browse ...</target>
+            </trans-unit>
+            <trans-unit id="56" resname="Printer">
+               <source>Printer</source>
+               <target>Printer</target>
+            </trans-unit>
+            <trans-unit id="57" resname="Text file">
+               <source>Text file</source>
+               <target>Text file</target>
+            </trans-unit>
+            <trans-unit id="58" resname="4D View">
+               <source>4D View</source>
+               <target>4D View</target>
+            </trans-unit>
+            <trans-unit id="59" resname="4D Chart">
+               <source>4D Chart</source>
+               <target>4D Chart</target>
+            </trans-unit>
+            <trans-unit id="60" resname="HTML file">
+               <source>HTML file</source>
+               <target>HTML file</target>
+            </trans-unit>
+            <trans-unit id="61" resname="Parameters">
+               <source>Parameters</source>
+               <target>Parameters</target>
+            </trans-unit>
+            <trans-unit id="62" resname="Adding fields (data sources) into a cross-tab report.">
+               <source>Adding fields (data sources) into a cross-tab report.</source>
+               <target>Adding fields (data sources) into a cross-tab report.</target>
+            </trans-unit>
+            <trans-unit id="63" resname="3-Cells">
+               <source>3-Cells</source>
+               <target>3-Cells</target>
+            </trans-unit>
+            <trans-unit id="64" resname="Define the order in which you want the columns and rows sorted.">
+               <source>Define the order in which you want the columns and rows sorted.</source>
+               <target>Define the order in which you want the columns and rows sorted.</target>
+            </trans-unit>
+            <trans-unit id="65" resname="Sort Order">
+               <source>Sort Order</source>
+               <target>Sort Order</target>
+            </trans-unit>
+            <trans-unit id="66" resname="Sort Order">
+               <source>Sort Order</source>
+               <target>Sort Order</target>
+            </trans-unit>
+            <trans-unit id="67" resname="Select the Master Table">
+               <source>Select the Master Table</source>
+               <target>Select the Master Table</target>
+            </trans-unit>
+            <trans-unit id="68" resname="Presentation Template">
+               <source>Presentation Template </source>
+               <target>Presentation Template </target>
+            </trans-unit>
+            <trans-unit id="69" resname="Presentation">
+               <source>Presentation </source>
+               <target>Presentation </target>
+            </trans-unit>
+            <trans-unit id="70" resname="Select a template for the report presentation.">
+               <source>Select a template for the report presentation. </source>
+               <target>Select a template for the report presentation. </target>
+            </trans-unit>
+            <trans-unit id="71" resname="Adding Computations.">
+               <source>Adding Computations.</source>
+               <target>Adding Computations.</target>
+            </trans-unit>
+            <trans-unit id="72" resname="Adding Computations">
+               <source>Adding Computations</source>
+               <target>Adding Computations</target>
+            </trans-unit>
+            <trans-unit id="73" resname="Computations">
+               <source>Computations</source>
+               <target>Computations</target>
+            </trans-unit>
+            <trans-unit id="74" resname="Define the Total for a Column.">
+               <source>Define the Total for a Column.</source>
+               <target>Define the Total for a Column.</target>
+            </trans-unit>
+            <trans-unit id="75" resname="Title for Column Totals.">
+               <source>Title for Column Totals.</source>
+               <target>Title for Column Totals.</target>
+            </trans-unit>
+            <trans-unit id="76" resname="Define the Total for a Column">
+               <source>Define the Total for a Column</source>
+               <target>Define the Total for a Column</target>
+            </trans-unit>
+            <trans-unit id="77" resname="Column Totals">
+               <source>Column Totals</source>
+               <target>Column Totals</target>
+            </trans-unit>
+            <trans-unit id="78" resname="Define the Total for Rows.">
+               <source>Define the Total for Rows.</source>
+               <target>Define the Total for Rows.</target>
+            </trans-unit>
+            <trans-unit id="79" resname="Title for Row Totals.">
+               <source>Title for Row Totals.</source>
+               <target>Title for Row Totals.</target>
+            </trans-unit>
+            <trans-unit id="80" resname="Define the Total for Rows">
+               <source>Define the Total for Rows</source>
+               <target>Define the Total for Rows</target>
+            </trans-unit>
+            <trans-unit id="81" resname="Row Totals">
+               <source>Row Totals</source>
+               <target>Row Totals</target>
+            </trans-unit>
+            <trans-unit id="82" resname="Select the data from the master table.">
+               <source>Select the data from the master table.</source>
+               <target>Select the data from the master table.</target>
+            </trans-unit>
+            <trans-unit id="83" resname="Templates">
+               <source>Templates</source>
+               <target>Templates</target>
+            </trans-unit>
+            <trans-unit id="84" resname="Preview">
+               <source>Preview</source>
+               <target>Preview</target>
+            </trans-unit>
+            <trans-unit id="85" resname="Font">
+               <source>Font</source>
+               <target>Font</target>
+            </trans-unit>
+            <trans-unit id="86" resname="Style">
+               <source>Style</source>
+               <target>Style</target>
+            </trans-unit>
+            <trans-unit id="87" resname="Alignment">
+               <source>Alignment</source>
+               <target>Alignment</target>
+            </trans-unit>
+            <trans-unit id="88" resname="Color">
+               <source>Color</source>
+               <target>Color</target>
+            </trans-unit>
+            <trans-unit id="90" resname="Format">
+               <source>Format</source>
+               <target>Format</target>
+            </trans-unit>
+            <trans-unit id="91" resname="Apply">
+               <source>Apply</source>
+               <target>Apply</target>
+            </trans-unit>
+            <trans-unit id="92" resname="Predefine computations">
+               <source>Predefine computations</source>
+               <target>Predefine computations</target>
+            </trans-unit>
+            <trans-unit id="93" resname="Preformatted computations">
+               <source>Preformatted computations</source>
+               <target>Preformatted computations</target>
+            </trans-unit>
+            <trans-unit id="94" resname="Free formula">
+               <source>Free formula</source>
+               <target>Free formula</target>
+            </trans-unit>
+            <trans-unit id="95" resname="Finalization">
+               <source>Finalization</source>
+               <target>Finalization</target>
+            </trans-unit>
+            <trans-unit id="96" resname="Finalizing the report.">
+               <source>Finalizing the report.</source>
+               <target>Finalizing the report.</target>
+            </trans-unit>
+            <trans-unit id="97" resname="Your report is now ready. Please choose which action you would like performed:">
+               <source>Your report is now ready. Please choose which action you would like performed:</source>
+               <target>Your report is now ready. Please choose which action you would like performed:</target>
+            </trans-unit>
+            <trans-unit id="98" resname="Back to manual mode">
+               <source>Back to manual mode</source>
+               <target>Back to manual mode</target>
+            </trans-unit>
+            <trans-unit id="99" resname="Save">
+               <source>Save</source>
+               <target>Save</target>
+            </trans-unit>
+            <trans-unit id="100" resname="Save as ...">
+               <source>Save as ...</source>
+               <target>Save as ...</target>
+            </trans-unit>
+            <trans-unit id="101" resname="Up">
+               <source>Up</source>
+               <target>Up</target>
+            </trans-unit>
+            <trans-unit id="102" resname="Down">
+               <source>Down</source>
+               <target>Down</target>
+            </trans-unit>
+            <trans-unit id="103" resname="Delete">
+               <source>Delete</source>
+               <target>Delete</target>
+            </trans-unit>
+            <trans-unit id="104" resname="Quick Report">
+               <source>Quick Report</source>
+               <target>Quick Report</target>
+            </trans-unit>
+            <trans-unit id="105" resname="Previous step">
+               <source>Previous step</source>
+               <target>Previous step</target>
+            </trans-unit>
+            <trans-unit id="106" resname="Build 4D Code">
+               <source>Build 4D Code</source>
+               <target>Build 4D Code</target>
+            </trans-unit>
+            <trans-unit id="107" resname="Text properties">
+               <source>Text properties</source>
+               <target>Text properties</target>
+            </trans-unit>
+            <trans-unit id="108" resname="Font, Size, Justification">
+               <source>Font, Size, Justification</source>
+               <target>Font, Size, Justification</target>
+            </trans-unit>
+            <trans-unit id="109" resname="Style (Bold, Italic, Underline)">
+               <source>Style (Bold, Italic, Underline)</source>
+               <target>Style (Bold, Italic, Underline)</target>
+            </trans-unit>
+            <trans-unit id="110" resname="Color (Text, Background)">
+               <source>Color (Text, Background)</source>
+               <target>Color (Text, Background)</target>
+            </trans-unit>
+            <trans-unit id="111" resname="Borders">
+               <source>Borders</source>
+               <target>Borders</target>
+            </trans-unit>
+            <trans-unit id="112" resname="Palettes visibility">
+               <source>Palettes visibility</source>
+               <target>Palettes visibility</target>
+            </trans-unit>
+            <trans-unit id="113" resname="Build code">
+               <source>Build code</source>
+               <target>Build code</target>
+            </trans-unit>
+            <trans-unit id="114" resname="Paste in Clipboard">
+               <source>Paste in Clipboard</source>
+               <target>Paste in Clipboard</target>
+            </trans-unit>
+            <trans-unit id="115" resname="Done">
+               <source>Done</source>
+               <target>Done</target>
+            </trans-unit>
+            <trans-unit id="116" resname="Code Options">
+               <source>Code Options</source>
+               <target>Code Options</target>
+            </trans-unit>
+            <trans-unit id="117" resname="Deviazione Standard">
+               <source>Standard Deviation</source>
+               <target>Standard Deviation</target>
+            </trans-unit>
+            <trans-unit id="89" resname="Border">
+               <source>Border</source>
+               <target>Border</target>
+            </trans-unit>
+         </group>
+         <group id="14908" resname="New Stuff">
+            <trans-unit id="127" resname="Execute">
+               <source>Execute</source>
+               <target>Execute</target>
+            </trans-unit>
+            <trans-unit id="128" resname="Load">
+               <source>Load</source>
+               <target>Load</target>
+            </trans-unit>
+            <trans-unit id="129" resname="Duplicate">
+               <source>Duplicate</source>
+               <target>Duplicate</target>
+            </trans-unit>
+            <trans-unit id="134" resname="Cancel">
+               <source>Cancel</source>
+               <target>Cancel</target>
+            </trans-unit>
+            <trans-unit id="135" resname="Report Name">
+               <source>Report Name</source>
+               <target>Report Name</target>
+            </trans-unit>
+            <trans-unit id="132" resname="Description">
+               <source>Description</source>
+               <target>Description</target>
+            </trans-unit>
+            <trans-unit id="134" resname="Owner">
+               <source>Owner</source>
+               <target>Owner</target>
+            </trans-unit>
+            <trans-unit id="135" resname="Protected">
+               <source>Protected</source>
+               <target>Protected</target>
+            </trans-unit>
+            <trans-unit id="136" resname="Modified">
+               <source>Modified :</source>
+               <target>Modified :</target>
+            </trans-unit>
+            <trans-unit id="137" resname="By">
+               <source>By :</source>
+               <target>By :</target>
+            </trans-unit>
+            <trans-unit id="138" resname="Page Break">
+               <source>Page break</source>
+               <target>Page break</target>
+            </trans-unit>
+            <trans-unit id="139" resname="Extra Space">
+               <source>Extra space:</source>
+               <target>Extra space:</target>
+            </trans-unit>
+            <trans-unit id="131" resname="Print">
+               <source>Print</source>
+               <target>Print</target>
+            </trans-unit>
+            <trans-unit id="140" resname="HEADER">
+               <source>HEADER</source>
+               <target>HEADER</target>
+            </trans-unit>
+            <trans-unit id="141" resname="FOOTER">
+               <source>FOOTER</source>
+               <target>FOOTER</target>
+            </trans-unit>
+            <trans-unit id="142" resname="Left">
+               <source>Left</source>
+               <target>Left</target>
+            </trans-unit>
+            <trans-unit id="143" resname="Center">
+               <source>Center</source>
+               <target>Center</target>
+            </trans-unit>
+            <trans-unit id="144" resname="Right">
+               <source>Right</source>
+               <target>Right</target>
+            </trans-unit>
+            <trans-unit id="145" resname="Picture">
+               <source>Picture</source>
+               <target>Picture</target>
+            </trans-unit>
+            <trans-unit id="146" resname="Size">
+               <source>Size</source>
+               <target>Size</target>
+            </trans-unit>
+            <trans-unit id="147" resname="Section Height">
+               <source>Section Height</source>
+               <target>Section Height</target>
+            </trans-unit>
+            <trans-unit id="148" resname="Bold">
+               <source>Bold</source>
+               <target>Bold</target>
+            </trans-unit>
+            <trans-unit id="149" resname="Italic">
+               <source>Italic</source>
+               <target>Italic</target>
+            </trans-unit>
+            <trans-unit id="150" resname="Underline">
+               <source>Underline</source>
+               <target>Underline</target>
+            </trans-unit>
+            <trans-unit id="151" resname="Use Picture Height">
+               <source>Use Picture Height</source>
+               <target>Use Picture Height</target>
+            </trans-unit>
+            <trans-unit id="152" resname="HeaderFooterPlaceHolders">
+               <source>(Page: #P Date: #D Hour: #H)</source>
+               <target>(Page: #P Date: #D Hour: #H)</target>
+            </trans-unit>
+            <trans-unit id="153" resname="Text">
+               <source>Text</source>
+               <target>Text</target>
+            </trans-unit>
+            <trans-unit id="154" resname="Points">
+               <source>Points</source>
+               <target>Points</target>
+            </trans-unit>
+            <trans-unit id="155" resname="Load Selection">
+               <source>Load Selection</source>
+               <target>Load Selection</target>
+            </trans-unit>
+            <trans-unit id="157" resname="Reset Settings">
+               <source>Reset Settings</source>
+               <target>Reset Settings</target>
+            </trans-unit>
+            <trans-unit id="162" resname="Line Width">
+               <source>Line Width</source>
+               <target>Line Width</target>
+            </trans-unit>
+            <trans-unit id="163" resname="Remove">
+               <source>Remove</source>
+               <target>Remove</target>
+            </trans-unit>
+            <trans-unit id="159" resname="Load…">
+               <source>Load…</source>
+               <target>Load…</target>
+            </trans-unit>
+            <trans-unit id="160" resname="Report Protected Alert">
+               <source>This report is protected and can be modified only by:</source>
+               <target>This report is protected and can be modified only by:</target>
+            </trans-unit>
+            <trans-unit id="161" resname="New Report">
+               <source>New report</source>
+               <target>New report</target>
+            </trans-unit>
+            <trans-unit id="164" resname="Save As…">
+               <source>Save as…</source>
+               <target>Save as…</target>
+            </trans-unit>
+            <trans-unit id="165" resname="Open…">
+               <source>Open…</source>
+               <target>Open…</target>
+            </trans-unit>
+            <trans-unit id="166" resname="Header And Footer">
+               <source>Header and footer</source>
+               <target>Header and footer</target>
+            </trans-unit>
+            <trans-unit id="167" resname="Page Setup…">
+               <source>Page setup…</source>
+               <target>Page setup…</target>
+            </trans-unit>
+            <trans-unit id="168" resname="Edit">
+               <source>Edit</source>
+               <target>Edit</target>
+            </trans-unit>
+            <trans-unit id="169" resname="Cut;Copy;Paste;Select All">
+               <source>Cut;Copy;Paste;Select all</source>
+               <target>Cut;Copy;Paste;Select all</target>
+            </trans-unit>
+            <trans-unit id="170" resname="File">
+               <source>File</source>
+               <target>File</target>
+            </trans-unit>
+            <trans-unit id="171" resname="Duplicate Report Name Alert">
+               <source>A report with the same name already exists, do you want to replace it? </source>
+               <target>A report with the same name already exists, do you want to replace it? </target>
+            </trans-unit>
+            <trans-unit id="172" resname="Confirm Report Deletion Alert">
+               <source>Do you want to delete the report</source>
+               <target>Do you want to delete the report</target>
+            </trans-unit>
+            <trans-unit id="173" resname="Choose a Report:">
+               <source>Choose a report:</source>
+               <target>Choose a report:</target>
+            </trans-unit>
+            <trans-unit id="174" resname="Name:">
+               <source>Name:</source>
+               <target>Name:</target>
+            </trans-unit>
+            <trans-unit id="175" resname="Copy">
+               <source>copy</source>
+               <target>copy</target>
+            </trans-unit>
+            <trans-unit id="176" resname="Duplicate Name Alert">
+               <source>A report with this name already exists!</source>
+               <target>A report with this name already exists!</target>
+            </trans-unit>
+            <trans-unit id="177" resname="Untitled">
+               <source>Untitled</source>
+               <target>Untitled</target>
+            </trans-unit>
+            <trans-unit id="178" resname="Preview">
+               <source>Preview</source>
+               <target>Preview</target>
+            </trans-unit>
+            <trans-unit id="179" resname="Layout">
+               <source>Layout</source>
+               <target>Layout</target>
+            </trans-unit>
+            <trans-unit id="130" resname="Close">
+               <source>Close</source>
+               <target>Close</target>
+            </trans-unit>
+            <trans-unit id="180" resname="Destination popup items">
+               <source>Printer;File;(4D View;(4D Chart;HTML</source>
+               <target>Printer;File;(4D View;(4D Chart;HTML</target>
+            </trans-unit>
+            <trans-unit id="181" resname="All">
+               <source>All</source>
+               <target>All</target>
+            </trans-unit>
+            <trans-unit id="182" resname="Erase dotted borders">
+               <source>Apply all settings of the editorDotted border = erase</source>
+               <target>Apply all settings of the editorDotted border = erase</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

@@ -1,0 +1,1 @@
+NQR_Wiz_SetDestination (qr printer:K14903:1;Self:C308)

@@ -1,0 +1,1 @@
+FldDelimit:=nqr_FldDelimit

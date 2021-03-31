@@ -1,0 +1,579 @@
+﻿{
+	"methods": {
+		"NQR_VirtualField_GetName": {
+			"timeStamp": "2021-03-27T14:02:01.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_GetFileName": {
+			"timeStamp": "2021-03-24T08:33:44.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Release": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Update_Destination": {
+			"timeStamp": "2021-03-31T09:05:37.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Icon_FieldType": {
+			"timeStamp": "2021-03-16T15:25:54.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_LoadCellSettings": {
+			"timeStamp": "2021-03-29T14:47:00.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_ClickedRightBottomCorner": {
+			"timeStamp": "2021-03-24T15:03:54.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_Hex2Dec": {
+			"timeStamp": "2021-03-26T10:18:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_AppendMenuItem": {
+			"timeStamp": "2021-03-24T08:15:52.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Step": {
+			"timeStamp": "2021-03-29T10:39:00.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_ManualMode": {
+			"timeStamp": "2021-03-31T10:42:03.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_NO_ERROR": {
+			"timeStamp": "2021-03-23T09:39:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Manager_NewRecord": {
+			"timeStamp": "2021-03-24T09:00:25.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_ExecuteButton_Clicked": {
+			"timeStamp": "2021-03-25T09:39:14.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_ToggleSelection": {
+			"timeStamp": "2021-03-21T17:30:06.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Step_Previous": {
+			"timeStamp": "2021-03-29T10:39:00.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_O_NQR_MP_Call": {
+			"timeStamp": "2021-03-25T09:51:35.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_IsAdmin": {
+			"timeStamp": "2021-03-24T08:14:29.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Get_Total_Column": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Step_Next": {
+			"timeStamp": "2021-03-25T11:32:59.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_ComponentRunningInHostMode": {
+			"timeStamp": "2021-03-24T08:22:40.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_ClearCellSettings": {
+			"timeStamp": "2021-03-30T08:16:24.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_LastPosition": {
+			"timeStamp": "2021-03-24T08:29:40.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Tables_Init": {
+			"timeStamp": "2021-03-27T14:42:19.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_PathToParentPath": {
+			"timeStamp": "2021-03-24T08:34:56.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_LoadComputations": {
+			"timeStamp": "2021-03-29T07:48:06.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Enter": {
+			"timeStamp": "2021-03-29T10:39:00.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Cross_Set_Cell_Formula": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_LoadRecord": {
+			"timeStamp": "2021-03-22T17:43:48.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_PutFileName": {
+			"timeStamp": "2021-03-24T08:33:44.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_SetDestination": {
+			"timeStamp": "2021-03-25T09:22:56.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Manager_UniqueName": {
+			"timeStamp": "2021-03-24T09:04:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_HeaderFooter_Get": {
+			"timeStamp": "2021-03-18T17:56:16.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Get_Total_Row": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_QuickReport": {
+			"timeStamp": "2021-03-27T14:41:46.000Z"
+		},
+		"NQR_TMP_Cross_DrawPreview": {
+			"timeStamp": "2021-03-30T09:03:14.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_UpdatePreview": {
+			"timeStamp": "2021-03-30T07:45:56.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Menu_File": {
+			"timeStamp": "2021-03-31T09:26:29.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Get_Cell_Base": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_List_DrawPreview": {
+			"timeStamp": "2021-03-26T18:22:01.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Get_Fields": {
+			"timeStamp": "2021-03-31T08:40:31.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_View_Fields": {
+			"timeStamp": "2021-03-31T08:48:27.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Icon_SortOrder": {
+			"timeStamp": "2021-03-16T15:27:28.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_ClickedObject": {
+			"timeStamp": "2021-03-24T14:56:04.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_Cross_Load": {
+			"timeStamp": "2021-03-31T10:14:39.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_ExecuteButton_Update": {
+			"timeStamp": "2021-03-24T14:26:37.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_QR_CountRows": {
+			"timeStamp": "2021-03-29T14:36:06.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_Expand_BLOB_NoErr": {
+			"timeStamp": "2021-03-24T08:23:07.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_PathToFileName": {
+			"timeStamp": "2021-03-24T08:35:23.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Init_Struct_Description": {
+			"timeStamp": "2021-03-27T14:02:01.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Save": {
+			"timeStamp": "2021-03-24T08:33:44.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_ApplyCrossSettings": {
+			"timeStamp": "2021-03-31T08:38:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_Cross_LoadList": {
+			"timeStamp": "2021-03-26T11:07:11.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_List_Load": {
+			"timeStamp": "2021-03-31T10:34:22.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Select_Column": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_ApplyListSettings": {
+			"timeStamp": "2021-03-31T08:39:38.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_List_Get_Selection": {
+			"timeStamp": "2021-03-29T17:37:35.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_QR_RowNumToSectionNum": {
+			"timeStamp": "2021-03-29T14:30:43.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_DrawCrossPreview": {
+			"timeStamp": "2021-03-30T12:46:57.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_List_Get_Sorts": {
+			"timeStamp": "2021-03-27T14:02:01.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TMP_List_LoadList": {
+			"timeStamp": "2021-03-29T07:23:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Init": {
+			"timeStamp": "2021-03-31T10:44:57.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Set_tc_sort": {
+			"timeStamp": "2021-03-25T10:02:16.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Manager_SaveRecord": {
+			"timeStamp": "2021-03-24T09:02:15.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Executer": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_GetTableNamed": {
+			"timeStamp": "2021-03-24T08:24:36.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Startup": {
+			"timeStamp": "2021-03-29T07:50:13.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_List_Set_Cell_Formula": {
+			"timeStamp": "2021-03-29T08:11:46.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Manager_LB_Update": {
+			"timeStamp": "2021-03-27T13:55:29.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_OnAreaDataChange": {
+			"timeStamp": "2021-03-29T17:23:42.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Get_Cell": {
+			"timeStamp": "2021-03-27T10:51:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_PointInRect": {
+			"timeStamp": "2021-03-31T08:37:52.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"__NOTES AND BUGS": {
+			"timeStamp": "2021-03-31T14:48:27.677Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Cross_Set_Total_Row": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_List_Select_Sorts": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SaveAs": {
+			"timeStamp": "2021-03-31T13:04:22.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Get_Sorts": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Hdl_dc_Field": {
+			"timeStamp": "2021-03-25T09:51:35.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Get_Row": {
+			"timeStamp": "2021-03-21T17:19:15.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_QR_SetTextProperty": {
+			"timeStamp": "2021-03-23T17:27:54.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_ReportManager": {
+			"timeStamp": "2021-03-31T09:08:50.000Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true
+			}
+		},
+		"QR_Manager_M_File": {
+			"timeStamp": "2021-03-24T08:51:44.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Cross_Set_Total_Column": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Tables_Update": {
+			"timeStamp": "2021-03-27T14:46:35.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_TextWithoutExtension": {
+			"timeStamp": "2021-03-24T08:40:41.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_HeaderFooter_Set": {
+			"timeStamp": "2021-03-24T18:00:41.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Borders_DrawListPreview": {
+			"timeStamp": "2021-03-30T07:44:35.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Wiz_Get_Column": {
+			"timeStamp": "2021-03-21T17:19:15.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Cross_Get_tc_lc": {
+			"timeStamp": "2021-03-25T10:01:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_ReportManager": {
+			"timeStamp": "2021-03-29T08:31:21.000Z"
+		},
+		"NQR_List_UpdateBreakSpacing": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST_StandardReport": {
+			"timeStamp": "2021-03-22T17:48:03.000Z"
+		},
+		"NQR_VirtualField_GetType": {
+			"timeStamp": "2021-03-10T10:59:47.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Manager_ModifyRecord": {
+			"timeStamp": "2021-03-24T09:09:24.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Get_lh_Column": {
+			"timeStamp": "2021-03-25T10:01:55.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_QuickReport": {
+			"timeStamp": "2021-03-27T14:57:55.000Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true
+			}
+		},
+		"QR_Manager_RecNumForName": {
+			"timeStamp": "2021-03-24T09:08:57.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}
