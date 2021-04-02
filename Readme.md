@@ -52,3 +52,5 @@ Allows to manage/store the reports inside the host database. Very useful in a mu
 ### NOTES
 
 Notes / bugs inside the NOTES AND BUGS project method.
+
+![4D Report Manager Screenshot](https://www.mixagesoftware.com/private/4D%20Report%20Screenshot.png)
