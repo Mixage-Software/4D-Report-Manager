@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
-<base name="" uuid="A1BF26E1E96D4A0895DEFBDDE095BE12" collation_locale="it">
+<base name="4D Report Manager" uuid="A1BF26E1E96D4A0895DEFBDDE095BE12" collation_locale="it">
 	<schema name="DEFAULT_SCHEMA"/>
 	<table name="_ReportManager" uuid="DA49BEF757B247C08625FFD9751D0C2A" id="1" prevent_journaling="true">
 		<field name="Name" uuid="2DE4CBB27C284E1C90C465C0CF949CF6" type="10" never_null="true" id="1">
@@ -110,7 +110,7 @@
 			<table_ref uuid="CE1DD9F410C44F038D30ADEE0FE9EE13" name="ORIGIN"/>
 		</field_ref>
 	</index>
-	<base_extra data_file_path=":NQR Component.data" package_name="4D Report Manager" structure_file_name="NQR Component" __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0">
+	<base_extra data_file_path=":NQR Component.data" package_name="4D Report Manager" structure_file_name="NQR Component" __stringCompHash="icu:68.1.0" __keywordBuildingHash="icu:68.1.0">
 		<temp_folder folder_selector="data"/>
 	</base_extra>
 </base>
